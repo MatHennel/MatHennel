@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### My name is Matheus Hennel
+
+ - 📕 I am currently studying Systems Analysis and Development at IFPR.
+ - 🖋 I am currently learning Java, JavaScript.
+ - 🎨 Basic knowledge in HTML,CSS and C.
+ - 📧 Contact me: matheushennel123@gmail.com 
+
 <!--
 **MatHennel/MatHennel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
