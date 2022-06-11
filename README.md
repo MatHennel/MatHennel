@@ -23,6 +23,7 @@
   <img align="center" alt="Math-C" height="50" widith="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Math-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Math-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="pedro-java" height="50" width="60" src="https://github.com/Driinho/devicon/blob/master/icons/java/java-original.svg" >
  </div>
  
 
