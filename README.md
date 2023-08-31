@@ -5,11 +5,10 @@ Atualmente **procurando um primeiro emprego, estágio ou Junior**, buscando ter 
 
 
 ## Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/matheushennel123/)
 [![Curriculo](https://img.shields.io/badge/-Curriculo-000?style=for-the-badge)](https://www.canva.com/design/DAFhQ3--33g/COrL9ath3Gbwer-hUknN8w/view?utm_content=DAFhQ3--33g&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=Gmail&logoColor=E94D5F)](mailto:matheushennel123@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=E94D5F)](https://www.linkedin.com/in/matheushennel/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)](https://github.com/MatHennel)
+
 
 
 ## Habilidades
